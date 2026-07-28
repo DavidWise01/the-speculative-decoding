@@ -1,0 +1,9 @@
+ROOT0-DLW-CHAIN-v1
+index : 1886
+slug  : the-speculative-decoding
+seal  : 3d6db3da7269b9f21e05b1fd631d23867c89e64fd32056c7f752e5f30580fb10
+prev  : 7364b644c9f3ce51bbc05433fc14fc1cac549bb0c3cc8d7cb25e07dc01c7b3e4
+link  : 0f7fffd13d57169691cb76cb79090337fa7842ec4710a774ac766502e9056032
+head  : 0f7fffd13d57169691cb76cb79090337fa7842ec4710a774ac766502e9056032
+
+— the tether: link = sha256(index|slug|seal|prev). the chain head commits to the whole corpus.
